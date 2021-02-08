@@ -37,7 +37,7 @@ As for 5-star unpaid Vine reviews, there were 631 reviews.  Attempting to divide
 ![Pic 3](https://github.com/Baylex/Amazon_Vine_Analysis/blob/main/Images/dev2_vine_reviews_no.PNG)   
 The percentage of unpaid, 5-star Vine reviews resulted in 37.4%, while the percentage of paid, 5-star Vine reviews would be 0%.   
 
-## Summary: In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
+## Summary:
 
 Because the sample size was constricted to a degree that it was impossible to compare paid and unpaid Vine reviews, the analysis is biased towards unpaid Vine reviews.  Another indicator is comparing 37% of unpaid, 5-star Vine reviews to 0% paid, 5-star Vine reviews also shows that the unpaid Vines are biased as well.
 

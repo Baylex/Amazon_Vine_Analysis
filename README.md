@@ -28,7 +28,7 @@ Unfortunately, due to the applied criteria, it significantly diminished the samp
 
 ![Pic 2](https://github.com/Baylex/Amazon_Vine_Analysis/blob/main/Images/dev2_count_is_zero.PNG)     
 
-All 1,656 remaining reviews are unpaid Vines and 0 paid Vines.  
+All 1,656 remaining reviews are unpaid Vines with 0 paid Vines.  
 
 ### How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?     
 As for 5-star unpaid Vine reviews, there were 631 reviews.  Attempting to divide by zero, the code would result in a zero division error.  Therefore, there are also 0 paid Vines with 5-star reviews.     

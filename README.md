@@ -3,7 +3,7 @@ UT McCombs Data Boot Camp Module 16: Big Data using PySpark, Amazon Web Service 
 
 ## Overview of the Analysis
 
-Various natural language processing skills were explored to prepare for a customer review analysis for a client interested in digital video games.      
+Various natural language processing skills were explored to prepare a customer review analysis for a client interested in digital video games.      
 
 Topics Explored:
 1. Define big data and describe the challenges associated with it.

@@ -18,7 +18,7 @@ Example of AWS data pulled into pgAdmin using Google Colab and PySpark script:
      
 ![Pic 1](https://github.com/Baylex/Amazon_Vine_Analysis/blob/main/Images/dev1_customer_table.PNG)
 
-## Results: Using bulleted lists and images of DataFrames as support, address the following questions:
+## Results
 
 ### How many Vine reviews and non-Vine reviews were there?
 The dataset appears a little on the small side for Big Data with 145,431 reviews.

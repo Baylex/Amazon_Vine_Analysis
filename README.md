@@ -2,10 +2,9 @@
 Big Data using PySpark, Amazon Web Service (AWS), Google Colaboratory, and pgAdmin
 
 ## Overview of the Analysis
-
 Various natural language processing skills were explored to prepare a customer review analysis for a client interested in digital video games.      
 
-Topics Explored:
+## Topics Explored
 1. Define big data and describe the challenges associated with it.
 2. Define Hadoop and name the main elements of its ecosystem.
 3. Explain how MapReduce processes data.
@@ -14,7 +13,9 @@ Topics Explored:
 6. Explain how to use AWS Simple Storage Service (S3) and relational databases for basic cloud storage.
 7. Complete an analysis of an Amazon customer review.
 
-Example of AWS data pulled into pgAdmin using Google Colab and PySpark script:      
+## Example
+Example of AWS data pulled into pgAdmin using Google Colab and PySpark script:  
+     
 ![Pic 1](https://github.com/Baylex/Amazon_Vine_Analysis/blob/main/Images/dev1_customer_table.PNG)
 
 ## Results: Using bulleted lists and images of DataFrames as support, address the following questions:
@@ -37,7 +38,7 @@ As for 5-star unpaid Vine reviews, there were 631 reviews.  Attempting to divide
 ![Pic 3](https://github.com/Baylex/Amazon_Vine_Analysis/blob/main/Images/dev2_vine_reviews_no.PNG)   
 The percentage of unpaid, 5-star Vine reviews resulted in 37.4%, while the percentage of paid, 5-star Vine reviews would be 0%.   
 
-## Summary:
+## Summary
 
 Because the sample size was constricted to a degree that it was impossible to compare paid and unpaid Vine reviews, the analysis is biased towards unpaid Vine reviews.  Another indicator is comparing 37% of unpaid, 5-star Vine reviews to 0% paid, 5-star Vine reviews also shows that the unpaid Vine are biased as well.
 

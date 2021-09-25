@@ -1,5 +1,5 @@
 # Amazon_Vine_Analysis
-UT McCombs Data Boot Camp Module 16: Big Data using PySpark, Amazon Web Service (AWS), Google Colaboratory, and pgAdmin
+Big Data using PySpark, Amazon Web Service (AWS), Google Colaboratory, and pgAdmin
 
 ## Overview of the Analysis
 
